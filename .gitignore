@@ -27,7 +27,7 @@
 *.sqlite
 *.classpath
 *.project
-*.setting
+*.settings
 
 
 # OS generated files #
