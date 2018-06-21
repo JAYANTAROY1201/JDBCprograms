@@ -6,7 +6,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Batch {
+public class BatchUsingStatement {
+	public BatchUsingStatement() {
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
